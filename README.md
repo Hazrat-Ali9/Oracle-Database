@@ -62,6 +62,7 @@
 
 # 26. Select COUNT (*) as COL FROM EMP;
 
+# 27. Select SUM (SAL) FROM EMP WHERE DEPTINO=30;
 
 
 
