@@ -28,6 +28,9 @@
 
 # 10. desc EMP;
 
+# 11. insert into EMP Values (7369,'Hazart','Engineering',7902,'17-DEC-80',800,20);
+
+
 
 
 
