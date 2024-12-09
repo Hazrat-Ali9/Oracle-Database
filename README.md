@@ -52,6 +52,12 @@
 
 # 21. Select *from EMP where ENAME LIKE '%L';
 
+# 22. Select COUNT (*) from EMP;
+
+
+
+
+
 
 
 
