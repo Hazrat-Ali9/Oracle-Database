@@ -48,6 +48,8 @@
 
 # 19. Select *from EMP where ENAME LIKE '% LAK %';
 
+# 20.  Select *from EMP where ENAME LIKE '%D';
+
 
 
 
