@@ -4,7 +4,7 @@
 
 # Oracle Database Commad : 
 
-# 1. create user c##batch identifird by batch;
+# 1. create user c##batch identified by batch;
 
 # 2. disconn
 
