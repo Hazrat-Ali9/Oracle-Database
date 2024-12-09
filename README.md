@@ -12,6 +12,8 @@
 
 # 4. user-name: system (pc Name)
 
+# 5. Install Pass 
+
 # 6. grant all privileges to c##batch;
 
 
