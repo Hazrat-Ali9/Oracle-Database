@@ -24,5 +24,9 @@
 # enter password
 # connected
 
+# 9. create table EMP (EMPNO number());
+
+# 
+
 
 
