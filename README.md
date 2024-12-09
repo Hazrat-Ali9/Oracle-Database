@@ -54,6 +54,8 @@
 
 # 22. Select COUNT (*) from EMP;
 
+# 23. Select COUNT (*) as COL FROM EMP;
+
 
 
 
