@@ -16,4 +16,6 @@
 
 # 6. grant all privileges to c##batch;
 
+# 7. disconn (same time )
+
 
