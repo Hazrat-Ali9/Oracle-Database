@@ -6,3 +6,5 @@
 
 # 1. create user c##batch identifird by batch;
 
+# 2. disconn
+
