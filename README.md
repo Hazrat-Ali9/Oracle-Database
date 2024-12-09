@@ -10,5 +10,8 @@
 
 # 3. conn
 
-# 4. user-name: c##batch 
+# 4. user-name: system (pc Name)
+
+# 6. grant all privileges to c##batch;
+
 
