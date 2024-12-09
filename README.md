@@ -38,6 +38,7 @@
 
 # 14. Select *from EMP where MGR is not NULL;
 
+# 15. Select *from EMP where SAL Between 1500 and 2500;
 
 
 
