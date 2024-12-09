@@ -26,7 +26,9 @@
 
 # 9. create table EMP (EMPNO number());
 
-# 
+# 10. desc EMP;
+
+
 
 
 
