@@ -58,6 +58,9 @@
 
 # 24. Select MAX (SAL) FROM EMP;
 
+# 25.  Select COUNT (*) FROM EMP;
+
+
 
 
 
