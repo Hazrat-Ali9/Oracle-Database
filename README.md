@@ -34,7 +34,9 @@
 
 # 12. Select *from EMP;
 
-# Select *from EMP where DEPTINO IN (20,30);
+# 13. Select *from EMP where DEPTINO IN (20,30);
+
+
 
 
 
