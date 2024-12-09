@@ -32,6 +32,8 @@
 
 # Same Way (QNA)
 
+# 12. Select *from EMP;
+
 
 
 
