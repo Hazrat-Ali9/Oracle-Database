@@ -64,6 +64,8 @@
 
 # 27. Select SUM (SAL) FROM EMP WHERE DEPTINO=30;
 
+# 28. Select AVG (SAL) FROM EMP WHERE DEPTINO=30;
+
 
 
 
