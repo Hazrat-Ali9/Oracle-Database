@@ -40,6 +40,10 @@
 
 # 15. Select *from EMP where SAL Between 1500 and 2500;
 
+# 16. Select *from EMP where Hiredate Between '02-APR-81' AND '08-SEP-81';
+
+
+
 
 
 
