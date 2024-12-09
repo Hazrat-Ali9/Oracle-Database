@@ -21,5 +21,6 @@
 # 8. conn 
 
 # user-name: c##batch
+# enter password
 
 
