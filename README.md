@@ -42,7 +42,7 @@
 
 # 16. Select *from EMP where Hiredate Between '02-APR-81' AND '08-SEP-81';
 
-
+# 17. Select *from EMP where ENAME LIKE 'BLAKE';
 
 
 
