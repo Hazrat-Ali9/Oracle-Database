@@ -44,6 +44,9 @@
 
 # 17. Select *from EMP where ENAME LIKE 'BLAKE';
 
+# 18. Select *from EMP where ENAME LIKE '% LAKE';
+
+# 
 
 
 
