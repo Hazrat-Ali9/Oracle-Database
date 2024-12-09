@@ -36,6 +36,8 @@
 
 # 13. Select *from EMP where DEPTINO IN (20,30);
 
+# 14. Select *from EMP where MGR is not NULL;
+
 
 
 
