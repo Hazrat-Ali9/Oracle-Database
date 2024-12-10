@@ -84,7 +84,7 @@
 
 # 8. JOB_ID NUMBER (10),
 
-# 9.
+# 9. SALARY NUMBER (10),
 
 # 10.
 
