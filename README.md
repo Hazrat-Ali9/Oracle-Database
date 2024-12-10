@@ -80,7 +80,7 @@
 
 # 6. B_DATE DATE, 
 
-# 7.
+# 7.  ADDRESS VARCHAR(255),
 
 # 8.
 
