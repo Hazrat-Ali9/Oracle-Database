@@ -74,6 +74,8 @@
 
 # 3.  F_NAME VARCHAR(20),
 
+# 4. L_NAME VARCHAR(20),
+
 
 
 
