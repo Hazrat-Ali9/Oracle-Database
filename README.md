@@ -78,7 +78,7 @@
 
 # 5. SSN NUMBER(10),
 
-# 6.  
+# 6. B_DATE DATE, 
 
 # 7.
 
