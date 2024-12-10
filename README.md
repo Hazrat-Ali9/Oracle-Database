@@ -76,9 +76,9 @@
 
 # 4. L_NAME VARCHAR(20),
 
-# 5.  SSN NUMBER(10),
+# 5. SSN NUMBER(10),
 
-# 6.
+# 6.  
 
 # 7.
 
