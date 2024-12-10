@@ -72,6 +72,8 @@
 
 # 2.  EMP_ID NUMBER(10) PRIMARY KEY,
 
+# 3.  F_NAME VARCHAR(20),
+
 
 
 
