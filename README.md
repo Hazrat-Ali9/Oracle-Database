@@ -70,6 +70,8 @@
 
 # 1. SQL> Create Table EMPLOYEES(
 
+# 2.  EMP_ID NUMBER(10) PRIMARY KEY,
+
 
 
 
