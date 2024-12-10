@@ -86,7 +86,7 @@
 
 # 9. SALARY NUMBER (10),
 
-# 10.
+# 10. MANAGER_ID NUMBER(10),
 
 
 
