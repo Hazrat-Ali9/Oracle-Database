@@ -66,6 +66,11 @@
 
 # 28. Select AVG (SAL) FROM EMP WHERE DEPTINO=30;
 
+# LAB : 6
+
+# 1. SQL> Create Table EMPLOYEES(
+
+
 
 
 
