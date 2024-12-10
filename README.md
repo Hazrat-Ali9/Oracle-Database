@@ -88,6 +88,8 @@
 
 # 10. MANAGER_ID NUMBER(10),
 
+# 11. DEP_ID NUMBER(1));
+
 
 
 
