@@ -82,7 +82,7 @@
 
 # 7. ADDRESS VARCHAR(255),
 
-# 8.
+# 8. JOB_ID NUMBER (10),
 
 # 9.
 
